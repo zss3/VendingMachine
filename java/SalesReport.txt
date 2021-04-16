@@ -1,0 +1,32 @@
+Potato Crisps|0
+Stackers|0
+Grain Waves|0
+<<<<<<< HEAD
+Cloud Popcorn|1
+Moonpie|0
+Cowtales|0
+Wonka Bar|5
+Crunchie|0
+Cola|0
+Dr. Salt|1
+=======
+Cloud Popcorn|0
+Moonpie|0
+Cowtales|0
+Wonka Bar|0
+Crunchie|0
+Cola|0
+Dr. Salt|0
+>>>>>>> 35bd9e73d15d775690757ea28915b1f650b6ee43
+Mountain Melter|0
+Heavy|0
+U-Chews|0
+Little League Chew|0
+Chiclets|0
+Triplemint|0
+
+<<<<<<< HEAD
+**TOTAL SALES** $12.65
+=======
+**TOTAL SALES** $0.00
+>>>>>>> 35bd9e73d15d775690757ea28915b1f650b6ee43
